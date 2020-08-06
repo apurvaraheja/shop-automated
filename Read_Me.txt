@@ -1,0 +1,2 @@
+- Put chrome in env variable
+- In admin command prompt type - "chrome.exe -remote-debugging-port=9014 --user-data-dir="D:\ShopOnlineEbay""
